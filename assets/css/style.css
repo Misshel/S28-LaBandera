@@ -1,5 +1,14 @@
-div{
+section, div {
   border: 1px solid;
+  border-color: #5a5a5a;
+}
+
+section{
+  margin: 2rem auto;
+  width: 50%;
+}
+
+div{
   height: 100px;
   width: 100px;
 }
