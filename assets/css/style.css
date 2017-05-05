@@ -14,15 +14,15 @@ div{
   width: 150px;
 }
 
-.yellow{
+#yellow{
   background-color: yellow;
 }
 
-.blue{
+#blue{
   background-color: blue;
 }
 
-.red{
+#red{
   background-color: red;
 }
 
