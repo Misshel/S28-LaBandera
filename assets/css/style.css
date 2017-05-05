@@ -1,0 +1,17 @@
+div{
+  border: 1px solid;
+  height: 100px;
+  width: 100px;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#blue{
+  background-color: blue;
+}
+
+#red{
+  background-color: red;
+}
